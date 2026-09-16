@@ -141,7 +141,7 @@ Material:
     - _Surface: 0
     - _Surface_Receive_Shadows: 1
     - _Voronoi_Density: 35
-    - _Water_Depth_Distance: 1.9
+    - _Water_Depth_Distance: -0
     - _Wave_Scale: 10
     - _Wave_Speed: 0.033
     - _Wave_Strength: 0.059
@@ -150,10 +150,10 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Deep_Water_Color: {r: 0.07838961, g: 0.038047355, b: 0.1792453, a: 0.2}
+    - _Deep_Water_Color: {r: 0, g: 0.070112124, b: 0.9056604, a: 0.2}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Foam_Color: {r: 1, g: 1, b: 1, a: 0.6980392}
-    - _Shallow_Water_Color: {r: 0.14872377, g: 0, b: 0.6320754, a: 0}
+    - _Shallow_Water_Color: {r: 0.2337982, g: 0, b: 0.990566, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Specular_Color: {r: 9.51876, g: 9.51876, b: 9.51876, a: 1}
     - _Water_Direction: {r: 1, g: 1, b: 0, a: 0}
